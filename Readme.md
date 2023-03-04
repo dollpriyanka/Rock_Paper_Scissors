@@ -11,7 +11,7 @@ An experiment involving a game of rock, paper and scissor, also known as Jo Ken 
 1. Clone this repository
 
 ```sh
-https://github.com/dollpriyanka/TV_show_API.git
+git clone https://github.com/dollpriyanka/Rock_Paper_Scissors.git
 ```
 
 2. Go to the cloned directory
