@@ -15,14 +15,4 @@ git clone https://github.com/dollpriyanka/Rock_Paper_Scissors.git
 ```
 
 2. Go to the cloned directory
-3. Initialize the directory
 
-```sh
-npm init -y
-```
-
-4. Install dependencies
-
-```sh
-npm install
-```
